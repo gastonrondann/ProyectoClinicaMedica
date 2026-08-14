@@ -1,0 +1,48 @@
+ENTIDADES NORMALIZADAS.
+
+ManagerAgendaMedico.cpp : Pendiente.
+ManagerAgendaMedico.h : Pendiente.
+ArchivoAgendaMedico.cpp : Pendiente.
+ArchivoAgendaMedico.h : Pendiente.
+
+ManagerEspecialidad.cpp : Pendiente.
+ManagerEspecialidad.h : Pendiente.
+ArchivoEspecialidad.cpp : Pendiente.
+ArchivoEspecialidad.h : Pendiente.
+
+ManagerMedico.cpp : Modificar.
+ManagerMedico.h : Modificar.
+ArchivoMedico.cpp : Modificar.
+ArchivoMedico.h : Modificar.
+
+ManagerObraSocial.cpp : Modificar.
+ManagerObraSocial.h : Modificar.
+ArchivoObraSocial.cpp : Modificar.
+ArchivoObraSocial.h : Modificar.
+
+ManagerPaciente.cpp : Modificar.
+ManagerPaciente.h : Modificar.
+ArchivoPaciente.cpp : Modificar.
+ArchivoPaciente.h : Modificar.
+
+ManagerPago.cpp Normalizado.
+ManagerPago.h : Normalizado.
+ArchivoPago.cpp : Normalizado.
+ArchivoPago.h : Normalizado.
+
+ManagerRol.cpp : Pendiente.
+ManagerRol.h : Pendiente.
+ArchivoRol.cpp : Pendiente.
+ArchivoRol.h : Pendiente.
+
+ManagerTurno.cpp : Normalizado.
+ManagerTurno.h : Normalizado.
+ArchivoTurno.cpp : Normalizado.
+ArchivoTurno.h : Normalizado.
+
+ManagerUsuario.cpp : Normalizado.
+ManagerUsuario.h : Normalizado.
+ArchivoUsuario.cpp : Modificar.
+ArchivoUsuario.h : Modificar.
+
+SI EN LOS MANAGER ESTA INCLUIDA LA ENTIDAD NO HACE FALTA INCLUIR LA ENTIDAD EN LOS ARCHIVOS.
